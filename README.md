@@ -1,7 +1,7 @@
-# Custom Uniswap V2 SDK
+# Customized Uniswap V2 SDK
 
-[![Unit Tests](https://github.com/gndplayground/uniswap-v2-sdk/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/gndplayground/uniswap-v2-sdk/actions/workflows/unit-tests.yml)
-[![Lint](https://github.com/gndplayground/uniswap-v2-sdk/actions/workflows/lint.yml/badge.svg)](https://github.com/gndplayground/uniswap-v2-sdk/actions/workflows/lint.yml)
+[![Unit Tests](https://github.com/RAMP-DEFI/uniswap-v2-sdk/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/RAMP-DEFI/uniswap-v2-sdk/actions/workflows/unit-tests.yml)
+[![Lint](https://github.com/RAMP-DEFI/uniswap-v2-sdk/actions/workflows/lint.yml/badge.svg)](https://github.com/RAMP-DEFI/uniswap-v2-sdk/actions/workflows/lint.yml)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![npm version](https://img.shields.io/npm/v/custom-uniswap-v2-sdk/latest.svg)](https://www.npmjs.com/package/custom-uniswap-v2-sdk/v/latest)
 [![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/minzip/custom-uniswap-v2-sdk/latest.svg)](https://bundlephobia.com/result?p=@custom-uniswap-v2-sdk)
@@ -16,7 +16,7 @@ Uniswap latest fixes, upgrade and hard to check what changes with the original U
 
 I forked and changes some code, so we can reuse Uniswap SDK without cloning and create our own.
 
-## [Demo online](https://gndplayground.github.io/custom-uniswap-v2-sdk-example/)
+## [Demo online](https://RAMP-DEFI.github.io/custom-uniswap-v2-sdk-example/)
 
 ## Install
 

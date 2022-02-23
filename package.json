@@ -1,5 +1,5 @@
 {
-  "name": "custom-uniswap-v2-sdk",
+  "name": "@rampdefi/uniswap-v2-sdk-multi-chain",
   "license": "MIT",
   "version": "3.2.0",
   "description": "Custom Uniswap SDK V2 to use for multiple chains",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/gndplayground/uniswap-v2-sdk.git",
+  "repository": "https://github.com/RAMP-DEFI/uniswap-v2-sdk.git",
   "keywords": [
     "swap",
     "crytocurrency"
